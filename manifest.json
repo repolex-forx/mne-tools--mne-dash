@@ -1,0 +1,32 @@
+{
+  "manifest_version": "1.0",
+  "org": "mne-tools",
+  "repo": "mne-dash",
+  "versions": [
+    {
+      "commit": "087cb76a5b29d56e84d71f8f7025f6e940ffdecf",
+      "parsed_at": "2026-10-28T17:01:24.952102+00:00",
+      "filetree": "filetree/087cb76a5b29d56e84d71f8f7025f6e940ffdecf.nq.gz",
+      "blobs": [
+        "blob/e44ff28a5c630737c069ee1fd9b8da849d6eaac2.nq.gz",
+        "blob/e080d0876c129d1a444ffa29c4cb816a4fdf5b94.nq.gz",
+        "blob/91b48831decdb92858873a75b6351cb3afcda7a6.nq.gz",
+        "blob/75c9945169d82d4da076875cccdb41d699e217a9.nq.gz",
+        "blob/bcde72044149474bc130e0b64ef6146a5a3d5f40.nq.gz",
+        "blob/eb700fc717bc9294bc97d337766f3fb8eb9d17e3.nq.gz",
+        "blob/0eac6792003177357a8f9b4f73c589e49441ebed.nq.gz",
+        "blob/38651df9da5d9468f516665dd05cd50312138427.nq.gz",
+        "blob/671640e82a19cc0376709d415e35af5e64292454.nq.gz",
+        "blob/fa720bfc81417270b4b6125be545831e371e04d1.nq.gz",
+        "blob/37e03533af6284ebbabaad49e95bb69dcf2802d5.nq.gz",
+        "blob/892a1d5de4096937c5eb19d922b7b53422d03059.nq.gz",
+        "blob/a2c8b998c919d6af6b9fc153f7b76e078c899687.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
